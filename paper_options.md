@@ -1,5 +1,13 @@
 # Paper Options
 
+## ICML
+
+* [Implicit Generative Modeling for Efficient Exploration](https://proceedings.icml.cc/static/paper_files/icml/2020/1113-Paper.pdf)
+  
+## ACL
+
+* [Spelling Error Correction with Soft-Masked BERT](https://www.aclweb.org/anthology/2020.acl-main.82.pdf)
+
 ## CVPR
 
 * [Neural Topological SLAM for Visual Navigation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chaplot_Neural_Topological_SLAM_for_Visual_Navigation_CVPR_2020_paper.pdf)
@@ -14,9 +22,10 @@ via Self-Supervised Deep Asymmetric Metric Learning](https://openaccess.thecvf.c
   * Notes: + Could combine with NER implementation
 * [Multi-Scale Positive Sample Refinement for
 Few-Shot Object Detection](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610443.pdf)
-
-## ICML
-
-* [Implicit Generative Modeling for Efficient Exploration](https://proceedings.icml.cc/static/paper_files/icml/2020/1113-Paper.pdf)
   
-## NeurIPS
+## ECCV
+
+* [Zero-shot North Korean to English Neural Machine Translation by
+Character Tokenization and Phoneme Decomposition](https://www.aclweb.org/anthology/2020.acl-srw.11.pdf)
+* [Multiple Sound Sources Localization from
+Coarse to Fine](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650290.pdf)

@@ -3,8 +3,6 @@ Interface class for the Habitat Simulator
 
 Provides robot state packets
 Sends goal pose from local planner to simulator
-
-TODO: nav commands
 """
 
 
@@ -22,9 +20,6 @@ class HabitatInterface:
 	scene_path: string path to simulator scene file (.glb, .gltf, .obj, .ply)
 	"""
 	def __init__(self, scene_path):
-		# Download the simulator if not found
-
-
 		# Set up the simulator scene and robot
 		self.sim_steps = 0
 		self.sim_settings = {
